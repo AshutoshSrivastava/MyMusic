@@ -1,0 +1,9 @@
+D:\Work\MyMusic\MyMusic.Core\bin\Debug\netstandard2.0\MyMusic.Core.deps.json
+D:\Work\MyMusic\MyMusic.Core\bin\Debug\netstandard2.0\MyMusic.Core.dll
+D:\Work\MyMusic\MyMusic.Core\bin\Debug\netstandard2.0\MyMusic.Core.pdb
+D:\Work\MyMusic\MyMusic.Core\obj\Debug\netstandard2.0\MyMusic.Core.csprojAssemblyReference.cache
+D:\Work\MyMusic\MyMusic.Core\obj\Debug\netstandard2.0\MyMusic.Core.csproj.CoreCompileInputs.cache
+D:\Work\MyMusic\MyMusic.Core\obj\Debug\netstandard2.0\MyMusic.Core.AssemblyInfoInputs.cache
+D:\Work\MyMusic\MyMusic.Core\obj\Debug\netstandard2.0\MyMusic.Core.AssemblyInfo.cs
+D:\Work\MyMusic\MyMusic.Core\obj\Debug\netstandard2.0\MyMusic.Core.dll
+D:\Work\MyMusic\MyMusic.Core\obj\Debug\netstandard2.0\MyMusic.Core.pdb

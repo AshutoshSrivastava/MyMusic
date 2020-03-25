@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YfP++zcV6voUMXXAazEqYIT729UFMR04XLdhJH606cE3IBztHTtm+KblC8zV/e6LHmxXE1wRfakNMSYoJ9cY/w==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\MyMusic\\MyMusic.Core\\MyMusic.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Ashutosh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Ashutosh\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.3\\system.threading.tasks.extensions.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
